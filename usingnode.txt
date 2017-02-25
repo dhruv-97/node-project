@@ -1,0 +1,15 @@
+node
+install postman
+npm install yargs --save
+npm install express --save
+npm install morgan --save
+npm install body-parser --save
+npm install express-generator -g
+install mongodb set path variable
+npm install mongodb --save
+npm install assert --save
+npm install mongoose --save
+     
+npm install assert --save
+npm install mocha --save
+npm install mongoose-currency --save
